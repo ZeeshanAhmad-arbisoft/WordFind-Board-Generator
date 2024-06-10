@@ -1,0 +1,339 @@
+{
+  "Board": [
+    {
+      "Letter": "T",
+      "Row": 0,
+      "Col": 0
+    },
+    {
+      "Letter": "Z",
+      "Row": 0,
+      "Col": 1
+    },
+    {
+      "Letter": "W",
+      "Row": 0,
+      "Col": 2
+    },
+    {
+      "Letter": "A",
+      "Row": 0,
+      "Col": 3
+    },
+    {
+      "Letter": "R",
+      "Row": 0,
+      "Col": 4
+    },
+    {
+      "Letter": "M",
+      "Row": 0,
+      "Col": 5
+    },
+    {
+      "Letter": "T",
+      "Row": 0,
+      "Col": 6
+    },
+    {
+      "Letter": "H",
+      "Row": 0,
+      "Col": 7
+    },
+    {
+      "Letter": "A",
+      "Row": 1,
+      "Col": 0
+    },
+    {
+      "Letter": "T",
+      "Row": 1,
+      "Col": 1
+    },
+    {
+      "Letter": "A",
+      "Row": 1,
+      "Col": 2
+    },
+    {
+      "Letter": "E",
+      "Row": 1,
+      "Col": 3
+    },
+    {
+      "Letter": "L",
+      "Row": 1,
+      "Col": 4
+    },
+    {
+      "Letter": "I",
+      "Row": 1,
+      "Col": 5
+    },
+    {
+      "Letter": "O",
+      "Row": 1,
+      "Col": 6
+    },
+    {
+      "Letter": "R",
+      "Row": 1,
+      "Col": 7
+    },
+    {
+      "Letter": "R",
+      "Row": 2,
+      "Col": 0
+    },
+    {
+      "Letter": "A",
+      "Row": 2,
+      "Col": 1
+    },
+    {
+      "Letter": "U",
+      "Row": 2,
+      "Col": 2
+    },
+    {
+      "Letter": "N",
+      "Row": 2,
+      "Col": 3
+    },
+    {
+      "Letter": "S",
+      "Row": 2,
+      "Col": 4
+    },
+    {
+      "Letter": "D",
+      "Row": 2,
+      "Col": 5
+    },
+    {
+      "Letter": "J",
+      "Row": 2,
+      "Col": 6
+    },
+    {
+      "Letter": "D",
+      "Row": 2,
+      "Col": 7
+    },
+    {
+      "Letter": "I",
+      "Row": 3,
+      "Col": 0
+    },
+    {
+      "Letter": "N",
+      "Row": 3,
+      "Col": 1
+    },
+    {
+      "Letter": "M",
+      "Row": 3,
+      "Col": 2
+    },
+    {
+      "Letter": "B",
+      "Row": 3,
+      "Col": 3
+    },
+    {
+      "Letter": "U",
+      "Row": 3,
+      "Col": 4
+    },
+    {
+      "Letter": "L",
+      "Row": 3,
+      "Col": 5
+    },
+    {
+      "Letter": "E",
+      "Row": 3,
+      "Col": 6
+    },
+    {
+      "Letter": "F",
+      "Row": 3,
+      "Col": 7
+    },
+    {
+      "Letter": "F",
+      "Row": 4,
+      "Col": 0
+    },
+    {
+      "Letter": "I",
+      "Row": 4,
+      "Col": 1
+    },
+    {
+      "Letter": "L",
+      "Row": 4,
+      "Col": 2
+    },
+    {
+      "Letter": "R",
+      "Row": 4,
+      "Col": 3
+    },
+    {
+      "Letter": "S",
+      "Row": 4,
+      "Col": 4
+    },
+    {
+      "Letter": "S",
+      "Row": 4,
+      "Col": 5
+    },
+    {
+      "Letter": "E",
+      "Row": 4,
+      "Col": 6
+    },
+    {
+      "Letter": "N",
+      "Row": 4,
+      "Col": 7
+    },
+    {
+      "Letter": "F",
+      "Row": 5,
+      "Col": 0
+    },
+    {
+      "Letter": "M",
+      "Row": 5,
+      "Col": 1
+    },
+    {
+      "Letter": "D",
+      "Row": 5,
+      "Col": 2
+    },
+    {
+      "Letter": "H",
+      "Row": 5,
+      "Col": 3
+    },
+    {
+      "Letter": "M",
+      "Row": 5,
+      "Col": 4
+    },
+    {
+      "Letter": "I",
+      "Row": 5,
+      "Col": 5
+    },
+    {
+      "Letter": "S",
+      "Row": 5,
+      "Col": 6
+    },
+    {
+      "Letter": "Y",
+      "Row": 5,
+      "Col": 7
+    },
+    {
+      "Letter": "S",
+      "Row": 6,
+      "Col": 0
+    },
+    {
+      "Letter": "A",
+      "Row": 6,
+      "Col": 1
+    },
+    {
+      "Letter": "L",
+      "Row": 6,
+      "Col": 2
+    },
+    {
+      "Letter": "E",
+      "Row": 6,
+      "Col": 3
+    },
+    {
+      "Letter": "R",
+      "Row": 6,
+      "Col": 4
+    },
+    {
+      "Letter": "T",
+      "Row": 6,
+      "Col": 5
+    },
+    {
+      "Letter": "S",
+      "Row": 6,
+      "Col": 6
+    },
+    {
+      "Letter": "I",
+      "Row": 6,
+      "Col": 7
+    },
+    {
+      "Letter": "B",
+      "Row": 7,
+      "Col": 0
+    },
+    {
+      "Letter": "L",
+      "Row": 7,
+      "Col": 1
+    },
+    {
+      "Letter": "R",
+      "Row": 7,
+      "Col": 2
+    },
+    {
+      "Letter": "E",
+      "Row": 7,
+      "Col": 3
+    },
+    {
+      "Letter": "B",
+      "Row": 7,
+      "Col": 4
+    },
+    {
+      "Letter": "O",
+      "Row": 7,
+      "Col": 5
+    },
+    {
+      "Letter": "R",
+      "Row": 7,
+      "Col": 6
+    },
+    {
+      "Letter": "N",
+      "Row": 7,
+      "Col": 7
+    }
+  ],
+  "Words": [
+    "FIL",
+    "SITO",
+    "TUBS",
+    "ALDEN",
+    "MOD",
+    "ZANUSSI",
+    "ANIMAL",
+    "WESLEY",
+    "REBORN",
+    "TARIFFS",
+    "WARMTH",
+    "ALERTS",
+    "TARIFF"
+  ]
+}
